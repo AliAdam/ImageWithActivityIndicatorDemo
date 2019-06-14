@@ -1,7 +1,7 @@
 # ImageWithActivityIndicatorDemo
 SwiftUI  project to show ActivityIndicator above Image while loading
 
-**ImageWithActivityIndicatorDemo** is a demo app that show how use [URLImage](https://github.com/AliAdam/ImageWithActivityIndicator) package. `ImageWithActivityIndicator` is a SwiftUI view that download and  display image from URL  and displaying Activity Indicator while loading . 
+**ImageWithActivityIndicatorDemo** is a demo app that show how use [ImageWithActivityIndicator](https://github.com/AliAdam/ImageWithActivityIndicator) package. `ImageWithActivityIndicator` is a SwiftUI view that download and  display image from URL  and displaying Activity Indicator while loading . 
 
 # ScreenShots
 
