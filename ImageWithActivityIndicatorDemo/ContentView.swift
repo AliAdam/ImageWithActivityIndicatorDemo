@@ -19,6 +19,7 @@ struct ContentView : View {
                 CellView(url: url)
             }
         }
+        
     }
 }
 
